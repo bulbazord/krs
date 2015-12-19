@@ -12,7 +12,7 @@
     Fahrenheit table.
 
 -   Exercise 1-5. Modify the temperature conversion program to print the table
-    in reverse order, taht is, from 300 degrees to 0.
+    in reverse order, that is, from 300 degrees to 0.
 
 -   Exercise 1-6. Verify that the expression `getchar() != EOF` is 0 or 1.
 
@@ -30,4 +30,4 @@
 -   Exercise 1-11. How would you test the word count program? What kinds of
     input are most likely to uncover bugs if there are any?
 
--   Exercise 1-12. Write a program that prihnts its input one word per line.
+-   Exercise 1-12. Write a program that prints its input one word per line.
